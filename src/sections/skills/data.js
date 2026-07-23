@@ -135,6 +135,15 @@ const data = [
           text: "µSvc",
           hexColor: "#A674A1"
         }
+      },
+      {
+        name: "Python",
+        level: '4/5',
+        description: "Using python to build lambda functions",
+        icon: {
+          type: "image",
+          url: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+        }
       }
     ]
   },
@@ -178,9 +187,9 @@ const data = [
         }
       },
       {
-        name: "Azure Blob Storage/AWS S3",
-        level: '3/5',
-        description: "Using blob storage services to store and manage unstructured data.",
+        name: "Amazon Web Services",
+        level: '4/5',
+        description: "Deploy stacks to AWS, configure ECS and ALB and S3 Buckets",
         icon: {
           type: "image",
           url: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"

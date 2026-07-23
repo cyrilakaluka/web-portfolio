@@ -17,8 +17,13 @@ export default class Resume extends BaseComponent {
         ],
         experience: [
             {
+                title: "Senior Software Engineer",
+                date: "January 2025 - Present",
+                location: "Warner Bros Discovery, Ottawa, Canada"
+            },
+            {
                 title: "Fullstack Software Engineer",
-                date: "March 2022 - Present",
+                date: "March 2022 - December 2024",
                 location: "Games Global, Tallinn, Estonia"
             },
             {

@@ -1,7 +1,7 @@
 const ContactStore = (() => {
   const contact = {
     email: "akalukacyril@gmail.com",
-    phone: "+1 (343) 882 9369",
+    phone: "+1 (343) 988 6751",
     address: {
       city: "Ottawa",
       province: "Ontario",

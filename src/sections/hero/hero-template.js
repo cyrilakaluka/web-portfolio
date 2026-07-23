@@ -18,7 +18,7 @@ export default ({ resumeLink }) => html`
       <h1 class="content name">Cyril<br>Akaluka</h1>
       <h2 class="content job-role">Software Engineer</h2>
       <p class="content summary">
-      I'm a Software Engineer with 9+ years of experience in building scalable web applications and solving complex problems. Specializing in .NET technologies and cloud solutions, I craft seamless digital experiences. Explore my portfolio, skills, and let's create something amazing together!
+      I'm a Software Engineer with 10+ years of experience in building scalable web applications and solving complex problems. Specializing in .NET technologies and cloud solutions, I craft seamless digital experiences. Explore my portfolio, skills, and let's create something amazing together!
       </p>
       <div class="content buttons">
         <app-cta variant="solid" href="#contact" id="hire-me">Hire Me</app-cta>
