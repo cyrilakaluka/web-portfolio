@@ -54,7 +54,7 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: npm run build
+        run: npm run build:prod
 
       - name: Checkout Deployment Repo (${{ inputs.deploy_repo }})
         uses: actions/checkout@v4
